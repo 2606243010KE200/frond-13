@@ -1,0 +1,172 @@
+
+.navigation{
+    display: flex;
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+margin-left: 650px;
+
+    
+    
+}
+.header-top{
+   display: flex;
+   display: inline-block;
+   justify-content: center;
+    padding:40px;
+    padding-left: 340px;
+}
+.nav-item,
+.menu-item{
+    display: inline-block;
+    margin-right: 38px;
+    font-size: 20px;
+    margin-top: 200px;
+}
+.nav-link,
+.menu-link{
+    color:black;
+
+}
+.menu-link:hover{
+    color:rgba(70, 163, 88, 1);
+    border-bottom: 1px solid  rgba(70, 163, 88, 1);
+}
+.nav-link:hover{
+    color:rgba(70, 163, 88, 1);
+    border-bottom: 1px solid  rgba(70, 163, 88, 1);
+}
+/*
+.nav-img{
+    display: flex; 
+     justify-content: center;
+ margin-top: 50px; 
+       gap: 150px;
+text-align: center;
+
+}
+.menu-img{
+ display: inline-block;   
+ justify-content: center;
+
+  
+}
+.menu-img-1{
+    display: inline-block;   
+  justify-content: center;
+  text-align: center;
+ 
+   
+}
+.menu-img-2{
+    display: inline-block;   
+justify-content: center;
+text-align: center;
+  
+}
+.product{
+  display: inline-block;   
+justify-content: center;
+text-align: center;
+}
+.menu-text,
+.menu-text-2,
+.menu-text-4{
+    margin-top:30px;
+    font-size: 16px;
+    color:rgba(61, 61, 61, 1);
+    line-height: 16px;
+}
+.menu-text-1,
+.menu-text-3,
+.menu-text-5{
+    margin-top: 10px;
+    font-size: 18px;
+    color:rgba(70, 163, 88, 1);
+}
+.menu-text-6{
+    display: flex;
+    display: inline-block;
+    justify-content: center;
+    font-size: 18px;
+    text-decoration: line-through;
+    text-decoration-color:rgba(203, 203, 203, 1);
+color:rgba(203, 203, 203, 1);
+}
+.menu-text-5,
+.menu-text-6 {
+    display: inline-block;  
+    margin-right: 10px;     
+    vertical-align: middle; 
+}
+.icons{
+  margin-top: 15px; 
+  display: flex;
+  
+  gap: 10px;
+}
+
+    
+    */
+    body {
+  
+  font: normal 16px/1.5 'Cera Pro', sans-serif;
+}
+    @font-face {
+font-family:'Cera Pro';
+src:url('font-face/CeraPro-Thin (1).eot ' )format('eot'),
+url ('font-face/CeraPro-Thin (1).woff')format('woff');
+font-weight: normal;
+  font-style: normal;
+
+    }
+  .menu-container{
+     display: flex;             
+  justify-content: center;  
+  margin-top: 100px;
+  gap: 60px;
+  }
+  .icons-1,
+  .icons-2,
+  .icons-3{
+    justify-content: center;
+    margin-left: 150px;
+  }
+.menu-text,
+.menu-text-2,
+.menu-text-4{
+    margin-top: 30px;
+    margin-left: 100px;
+    font-size: 16px;
+}
+.menu-text-1,
+.menu-text-3{
+    color:rgba(70, 163, 88, 1);
+    font-size: 18px;
+    margin-left: 100px;
+}
+.shopping-1,
+.vector-1,
+.frame-1{
+    margin-left: 10px;
+}
+.menu-text-6{
+    color:rgba(70, 163, 88, 1);
+    font-size: 18px;
+     margin-left: 100px;
+}
+
+.menu-text-7{
+    display: flex;
+     margin-left: 100px;
+     justify-content: center;
+       text-decoration: line-through;
+       font-size: 18px;
+       margin-left: 10px;
+       color:rgba(203, 203, 203, 1);
+}
+.menu-text-6,
+.menu-text-7{
+    display: inline-block;
+     
+}
